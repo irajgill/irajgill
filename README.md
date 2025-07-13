@@ -29,5 +29,5 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 
 ## 📫 Let's Connect
 
-- 💼 **GitHub**: [@irajgill](https://github.com/irajgill)
+- 💼 **GitHub/Telegram**: [@irajgill]
 - 📧 **Open to**: Collaboration, Learning, and New Opportunities
