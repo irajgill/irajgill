@@ -7,9 +7,7 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 - 🔭 I'm currently working on various projects spanning different technologies
 - 🌱 I'm always learning and exploring new frameworks and tools
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, programming, and technology
 - 📫 How to reach me: Connect with me through GitHub
-- ⚡ Fun fact: I love turning ideas into code!
 
 ## 🛠️ Technologies & Tools
 
