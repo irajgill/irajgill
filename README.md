@@ -18,6 +18,16 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/-Foundry-1E1E1E?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Noir](https://img.shields.io/badge/-Noir-000000?style=flat-square&logo=aztec&logoColor=white)
+
 
 
 ## 🎯 Current Focus
