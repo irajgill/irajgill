@@ -25,31 +25,7 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-## 🎯 Current Focus
-
-- 💻 Building innovative web applications
-- 🔍 Exploring new programming paradigms
-- 🌐 Contributing to open source projects
-- 📚 Continuous learning and skill development
-
 ## 📫 Let's Connect
 
 - 💼 **GitHub**: [@irajgill](https://github.com/irajgill)
 - 📧 **Open to**: Collaboration, Learning, and New Opportunities
-
-## 💡 Quote
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=irajgill&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
-  
-</div>
