@@ -27,6 +27,8 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Noir](https://img.shields.io/badge/-Noir-000000?style=flat-square&logo=aztec&logoColor=white)
+![Circom](https://img.shields.io/badge/-Circom-4B0082?style=flat-square&logo=ethereum&logoColor=white)
+
 
 
 
