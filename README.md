@@ -55,7 +55,6 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ## 📫 Let's Connect
 
 - 💼 **GitHub**: [@irajgill](https://github.com/irajgill)
-- 🌍 **Location**: Pilibanga, Rajasthan, India
 - 📧 **Open to**: Collaboration, Learning, and New Opportunities
 
 ## 💡 Quote
