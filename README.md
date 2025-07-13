@@ -30,4 +30,4 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ## 📫 Let's Connect
 
 - 💼 **GitHub**: [@irajgill](https://github.com/irajgill)
-- 📱 **Telegram**: ![@irajgill]
+- 📱 **Telegram**: [@irajgill]
