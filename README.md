@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Raj
 
-
-## 🚀 About Me
-
 I'm passionate about leveraging technology and code to tackle real-world challenges. Currently working on blockchain domain but I actively follow emerging technology trends to stay ahead and integrate diverse tech stacks for innovative and effective solutions. I’m a quick learner, a collaborative team player, and always open to working on projects and disruptive ideas.
 - 🚀 I like Math and cryptography.
 - 🔭 I'm currently working on various projects spanning different technologies
