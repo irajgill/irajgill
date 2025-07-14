@@ -19,6 +19,7 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Noir](https://img.shields.io/badge/-Noir-000000?style=flat-square&logo=aztec&logoColor=white)
 ![Circom](https://img.shields.io/badge/-Circom-4B0082?style=flat-square&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
