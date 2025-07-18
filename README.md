@@ -4,7 +4,7 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 - 🚀 I like Math and cryptography. 
 - 🔭 I'm currently working on various projects spanning different technologies
 - 🌱 I'm always learning and exploring new frameworks and tools
-- 👯 I'm looking to collaborate on open source projects 
+- 👯 I'm looking to collaborate on open source projects
 
 
 ## 🛠️ Technologies & Tools
