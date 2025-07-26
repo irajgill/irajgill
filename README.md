@@ -26,7 +26,7 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 
 
 🚀 Most Used Languages & Technologies
-![Most Used Languages](https://camo.githubusercontent.com/9a41f232077cedfbc09a36321aaa38d2a58b8cf6b2ed88025a036ce39d83a9e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d70616e6469746468616d64686572652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f 👨‍💻 Primary Expertise
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iraj 🔥
 
 ## 📫 Let's Connect
 
