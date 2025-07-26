@@ -25,8 +25,6 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-🚀 Most Used Languages & Technologies
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iraj 🔥
 
 ## 📫 Let's Connect
 
