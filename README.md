@@ -24,6 +24,9 @@ I'm passionate about leveraging technology and code to tackle real-world challen
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+![Most Used Languages](https://camo.githubusercontent.com/9a41f232077cedfbc09a36321aaa38d2a58b8cf6b2ed88025a036ce39d83a9e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d70616e6469746468616d64686572652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
+
 ## 📫 Let's Connect
 
 - 💼 **GitHub**: [@irajgill](https://github.com/irajgill)
